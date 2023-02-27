@@ -1,4 +1,4 @@
 # pi23-G2
-Testni repozitorij.
+Testni repozitorij za PI
 
 ## naslov druge razine
